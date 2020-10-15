@@ -26,4 +26,4 @@ export default {
   }
 }
 </script>
-<style lang="postcss" scoped src="./avatar.pcss"></style>
+<style lang="postcss" scoped src="avatar.pcss"></style>

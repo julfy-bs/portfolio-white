@@ -26,6 +26,6 @@ export default {
 </script>
 
 
-<style lang="postcss" src="./card.pcss" scoped>
+<style lang="postcss" src="card.pcss" scoped>
 </style>
 

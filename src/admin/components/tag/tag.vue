@@ -13,4 +13,4 @@ export default {
 }
 </script>
 
-<style lang="postcss" scoped src="./tag.pcss"></style>
+<style lang="postcss" scoped src="tag.pcss"></style>

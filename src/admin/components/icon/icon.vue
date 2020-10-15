@@ -31,4 +31,4 @@ export default {
 };
 </script>
 
-<style lang="postcss" scoped src="./icon.pcss"></style>
+<style lang="postcss" scoped src="icon.pcss"></style>

@@ -65,4 +65,4 @@ export default {
 };
 </script>
 
-<style lang="postcss" scoped src="./editLine.pcss"></style>
+<style lang="postcss" scoped src="editLine.pcss"></style>
